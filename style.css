@@ -89,6 +89,7 @@ h2{
 }
 img{
     position: absolute;
+    margin-top: -1000px;
     height: 150px;
     border-radius:530px;
     margin-left: 200px;
